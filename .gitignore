@@ -1,0 +1,59 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@athielking
+github /
+gitignore
+Public
+
+Code
+Pull requests 345
+Actions
+Security
+
+    Insights
+
+gitignore/Go.gitignore
+@kuritka
+kuritka GO: Added link to allow list template
+Latest commit 29f57d1 Dec 13, 2021
+History
+12 contributors
+@AlekSi
+@ch33f
+@MichalisK
+@mahmud2011
+@tchajed
+@mxschmitt
+@matthew-gerstman
+@breml
+@kuritka
+@titanous
+@cskau
+@bndw
+21 lines (17 sloc) 478 Bytes
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Go workspace file
+go.work
